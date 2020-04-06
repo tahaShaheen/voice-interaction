@@ -1,0 +1,2 @@
+rootProject.name='intent catcher'
+include ':app'
